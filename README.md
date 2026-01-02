@@ -9,7 +9,7 @@ A self-healing **Policy-Based Routing (PBR)** manager for multi-homed Proxmox LX
 Run this command inside any Debian/Ubuntu-based LXC or VM:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/kevdog/proxmox-pbr-guardian/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/kevdogg/proxmox-pbr-guardian/main/install.sh | bash
 ```
 
 ## ✨ Key Features
